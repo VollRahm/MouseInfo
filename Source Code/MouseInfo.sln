@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseInfo", "MouseInfo\MouseInfo.csproj", "{1CA0495F-DF45-48AE-ABB7-AB999A6780F4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MouseInfo Setup", "MouseInfo Setup\MouseInfo Setup.vdproj", "{32F92EB6-C307-477C-AB86-776F148EE3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA0495F-DF45-48AE-ABB7-AB999A6780F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA0495F-DF45-48AE-ABB7-AB999A6780F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA0495F-DF45-48AE-ABB7-AB999A6780F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA0495F-DF45-48AE-ABB7-AB999A6780F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F92EB6-C307-477C-AB86-776F148EE3EF}.Debug|Any CPU.ActiveCfg = Debug
+		{32F92EB6-C307-477C-AB86-776F148EE3EF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E2F42E-73BE-4BC9-9978-19C5E0B9D70C}
+	EndGlobalSection
+EndGlobal
