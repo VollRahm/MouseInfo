@@ -1,0 +1,19 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\MouseInfo.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\MouseInfo.Properties.Resources.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\MouseInfo.csproj.GenerateResource.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\MouseInfo.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\MouseInfo.Info.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\Whatsapp_Spammer.Donate.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\MouseInfo.Information.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\MouseInfo.CPSOverlay.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\bin\Debug\Mouse Info.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\bin\Debug\Mouse Info.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\bin\Debug\Mouse Info.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\MouseInfo.Calibrate.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\MouseInfo.csproj.CopyComplete
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\Mouse Info.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Debug\Mouse Info.pdb

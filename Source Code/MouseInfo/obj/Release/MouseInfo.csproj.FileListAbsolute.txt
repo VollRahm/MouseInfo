@@ -1,0 +1,14 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Release\Whatsapp_Spammer.Donate.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Release\MouseInfo.Info.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Release\MouseInfo.Information.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Release\MouseInfo.Properties.Resources.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Release\MouseInfo.csproj.GenerateResource.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Release\MouseInfo.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Release\MouseInfo.CPSOverlay.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Release\MouseInfo.Calibrate.resources
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\bin\Release\Mouse Info.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\bin\Release\Mouse Info.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\bin\Release\Mouse Info.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Release\Mouse Info.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Release\Mouse Info.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\_PROJECTS\MouseInfo\MouseInfo\obj\Release\MouseInfo.csprojAssemblyReference.cache
