@@ -222,7 +222,7 @@
             // DistanceTimer
             // 
             this.DistanceTimer.Enabled = true;
-            this.DistanceTimer.Interval = 130;
+            this.DistanceTimer.Interval = 10;
             this.DistanceTimer.Tick += new System.EventHandler(this.DistanceTimer_Tick_1);
             // 
             // calibratebtn

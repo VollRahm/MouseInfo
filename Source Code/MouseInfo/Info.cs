@@ -220,7 +220,7 @@ namespace MouseInfo
 				dstInMeters = Math.Round(tempDistance / 100,2);
 
 				distanceLbl.Text = "Distance: " + dstInMeters + " meter";
-				//Properties.Settings.Default.Distance = tempDistance;
+				Properties.Settings.Default.Distance = tempDistance;
 				//Properties.Settings.Default.Save();
 			}
 		}
